@@ -8,7 +8,6 @@ A repo of [IPython Notebooks](http://ipython.org/notebook.html) to help translat
 ####What won't be (initially) covered:
 - Why learn Python?
 - Technical/computational differences
-- 
 
 ###Philosophy:
 - Is the essence of the program/procedure covered? I will not try to exactly replicate every exact detail of each SAS output.
