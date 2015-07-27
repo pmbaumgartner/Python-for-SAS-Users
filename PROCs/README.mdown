@@ -1,0 +1,12 @@
+###Procedures to cover:
+- PRINT
+- MEANS
+- SORT
+- FREQ
+- UNIVARIATE
+- CORR
+- ANOVA
+- GLM
+- REG
+- CHART
+- PLOT
