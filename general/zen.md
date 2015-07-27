@@ -5,10 +5,10 @@ You can view this at any time by doing `import this` in a Python Program.
 
 Let's review the aphorisms and talk about SAS.
 
-1. Beautiful is better than ugly.
+1. Beautiful is better than ugly.  
 Since Python is a general programming language, most features of the SAS Macro language are built in and are a lot easier to use once you understand basic [control features](https://docs.python.org/2/tutorial/controlflow.html). No  ugly `%`, `&`, or weird escaping with periods. Plus Python's indentation will force you write programs without getting lost within macro loops.
 
-2. Explicit is better than implicit.
+2. Explicit is better than implicit.  
 SAS gives you *everything* on output. `PROC UNIVARIATE` outputs a t-test for example. Did you ask for a t-test? This aphorism is related to the next one, *Simple is better than complex*, in the sense that you'll only typically get what you ask for with Python. The explicit nature gives you more control over what you see.
 
 3. Simple is better than complicated.
