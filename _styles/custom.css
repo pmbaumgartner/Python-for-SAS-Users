@@ -1,0 +1,32 @@
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+<style>
+.rendered_html h1, h2 {
+	color: #004A72;
+}
+
+.rendered_html h3 {
+	color: #007FC3;
+}
+.rendered_html h4 {
+	color: #007F3B;
+}
+.rendered_html h3, h4 {
+	font-size: 128%;
+}
+.pynote {
+	background-color: #d8facf; 
+	border-left: 5px solid #06FC78;
+	padding: 0.5em;
+ }
+ div.cell{
+    width: 800px;
+    margin-left:16% !important;
+    margin-right:auto;
+    }
+ div.text_cell_render{
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+    }
+ </style>
