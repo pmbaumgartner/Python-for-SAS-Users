@@ -28,13 +28,21 @@ I'm looking at you, SAS Macro Language.
 9. Although practicality beats purity.  
 
 
-10. Errors should never pass silently.  
-11. Unless explicitly silenced.  
+10. Errors should never pass silently.
+SAS is actually pretty good at this -- whether the error is in the log or somewhere in the output.  
+11. Unless explicitly silenced.
+This is a good time to warn you not to fall into [Pokemon Exception Handling](http://stackoverflow.com/questions/10594113/bad-idea-to-catch-all-exceptions-in-python) within the first few hours if giddy excitement after discovering [try...except...finally](https://wiki.python.org/moin/HandlingExceptions).
+
 12. In the face of ambiguity, refuse the temptation to guess.  
-13. There should be one-- and preferably only one --obvious way to do it.  
+Often times you might find yourself asking if you want to split that variable with a `CLASS` or `BY` statement?. 
+13. There should be one-- and preferably only one --obvious way to do it. 
+Can you tell me the difference between `PROC MEANS` and `PROC SUMMARY` off the top of your head? Hint: [There is none](http://support.sas.com/documentation/cdl/en/proc/61895/HTML/default/viewer.htm#a002473735.htm).
+
 14. Although that way may not be obvious at first unless you're Dutch.  
+It may not be obvious at first either if you think of the multiple ways you can run a t-test.
+http://programmers.stackexchange.com/questions/148790/is-the-14th-line-of-the-zen-of-python-a-reference-to-dijkstra  
 15. Now is better than never.  
 16. Although never is often better than *right* now.  
 17. If the implementation is hard to explain, it's a bad idea.  
 18. If the implementation is easy to explain, it may be a good idea.  
-19 Namespaces are one honking great idea -- let's do more of those!  
+19. Namespaces are one honking great idea -- let's do more of those!  
