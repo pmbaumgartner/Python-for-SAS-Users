@@ -18,19 +18,25 @@
 }
 
 .pynote {
-	background-color: #f4fff3; 
+	background-color: #f4fff3;
 	border-left: 5px solid #6cf955;
 	padding: 0.5em;
 }
 
+.challenge {
+	background-color: #eeeef6;
+	border-left: 5px solid #5B5EA6;
+	padding: 0.5em;
+}
+
 .construction {
-	background-color: #fff4f3; 
+	background-color: #fff4f3;
 	border-left: 5px solid #ff6058;
 	padding: 0.5em;
 }
 
 .resources {
-	background-color: #f3f7fe; 
+	background-color: #f3f7fe;
 	border-left: 5px solid #6398f3;
 	padding: 0.5em;
 }
@@ -40,26 +46,20 @@
 }
 
 .sas {
-	background-color: #fffcf3; 
+	background-color: #fffcf3;
 	border-left: 5px solid #ffd758;
 	padding: 0.5em;
 }
 
 .sasoutput {
-	background-color: #ffeaad; 
+	background-color: #ffeaad;
 	border-left: 5px solid #ffd758;
 	padding: 0.5em;
 }
 
-div.cell{
-	width: 800px;
-	margin-left:16% !important;
-	margin-right:auto;
-}
+
 div.text_cell_render{
     font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-    width:700px;
-    margin-left:auto;
-    margin-right:auto;
-}	
+
+}
 </style>
