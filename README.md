@@ -1,7 +1,7 @@
 # Python for SAS Users
 This repository contains several [IPython Notebooks](http://ipython.org/notebook.html) to help translate from the SAS statistical language to equivalents using Python libraries.
 
-It is best viewed using nbviewer, which you can access by clicking here.
+It is best viewed using nbviewer, which you can access by [clicking here](http://nbviewer.jupyter.org/github/pmbaumgartner/Python-for-SAS-Users/tree/master/).
 
 ### Initial Topics:
 - Installation / Execution / Basic Syntax
